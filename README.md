@@ -16,6 +16,7 @@ You can install these with the following commands:
 pip install numpy pandas matplotlib tensorflow opencv-python opencv-contrib-python
 
 ## Dataset
+Link: https://drive.google.com/file/d/1m0xwQ8TUOXZPCQh-uFxE5_kUr4Lpu1tH/view?usp=sharing
 The training data should be organized in folders named '0' to '6', each corresponding to a different emotion:
 
 0: Angry
